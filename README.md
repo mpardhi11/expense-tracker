@@ -1,2 +1,2 @@
-# expense-tracker
+## expense-tracker
 Simple React Expense Tracker
